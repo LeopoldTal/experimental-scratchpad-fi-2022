@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>198B52DE-77B5-4C89-AE91-B770C2C7946C</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Laser (titre provisoire)</title>
+            <author>Léopold Tal</author>
+            <headline>Une fiction interactive</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2021</firstpublished>
+            <language>fr</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2021-04-18</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6L38</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6L38</generatorversion>
+            <originated>2021-04-18</originated>
+        </colophon>
+        <glulx>
+            <serial>210418</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6L38</compiler>
+        </glulx>
+    </story>
+</ifindex>
